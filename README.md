@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I212
 ### Team Details
-#### **Team Name** <<CTREL ALT DEFEAT>> <br/>
+#### **CTRL ALT DEFEAT** <<CTREL ALT DEFEAT>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Program|HOSTELLER/DAYSCHOLAR |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| :------------------------:|
